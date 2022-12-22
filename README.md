@@ -14,4 +14,8 @@
 
 8. localStorage에 사용자의 이름(name)과 todo리스트 항목들이 저장됨 
 
-9. 새로고침하여도 이름과 todo리스트 항목들이 이전 상태 그대로 출력되어야 함 
+9. 새로고침하여도 이름과 todo리스트 항목들이 이전 상태 그대로 출력되어야 함
+
+tistory link : <https://cjy00n.tistory.com/56>
+
+
