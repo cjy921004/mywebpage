@@ -18,4 +18,5 @@
 
 tistory link : <https://cjy00n.tistory.com/56>
 
+<img width="960" alt="스크린샷_20221222_034020" src="https://user-images.githubusercontent.com/33516975/209086899-d25ed110-587d-46d0-b158-add382182e39.png">
 
